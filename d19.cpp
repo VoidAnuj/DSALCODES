@@ -3,8 +3,6 @@
 #include <algorithm>
 using namespace std;
 
-// Watermark: Code by Anuj Gholve
-
 struct TreeNode {
     string key;
     string meaning;
